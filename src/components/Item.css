@@ -1,0 +1,12 @@
+.Item {
+    width: 220px;
+    height: 350px;
+    background-color: #61dafb;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 10px 20px;
+}
+.Item img {
+    width: 100%;
+    height: 100%;
+}
